@@ -42,8 +42,6 @@ img {
 .icon {
   height: 50px;
   width: 50px;
-  display: "inline";
-  vertical-align: "middle";
 }
 
 .madewith {
